@@ -1,0 +1,142 @@
+
+#home .navbar .navbar-nav .nav-item a {
+    padding: 3px 25px;
+    margin: 25px;
+    color: #fff;
+    font-weight: 400;
+    transition: 0.3s;
+}
+#home .navbar .navbar-nav .nav-item  .active{
+    border: 2px solid #009ad8;
+    border-radius: 15px;
+    color: #009ad8;
+}
+#home .navbar .navbar-nav .nav-item a:hover{
+    border: 2px solid #009ad8;
+    border-radius: 15px;
+    color: #009ad8;
+   
+}
+
+
+#home .navbar .navbar-brand{
+    display: flex;
+    align-items: center;
+    width: 50px;
+}
+
+#home .navbar .navbar-brand img{
+    width: 100%;
+    margin-right: 10px;
+}
+#home .navbar .navbar-brand .flee{
+    cursor: pointer;
+}
+#home .navbar .navbar-brand .flee h6{
+    font-size: 5px;
+  
+} 
+.info{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.info img{
+    width: 100%;
+    height: 500px;
+}
+.info .lool .vgv .sds{
+    display: flex;
+    position: relative;
+    color: #fff;
+    
+}
+.info .lool .vgv .sds button{
+position: absolute;
+right: 7px;
+top: 7px;
+padding: 10px 25px;
+}
+input:focus {
+    outline: none;
+   
+  }
+
+.info .lool .vgv{
+    position: absolute;
+    width: 100%;
+    top: 160px;
+  
+  }
+  .info .lool .vgv .dddd{
+    height: 400px;
+    
+    background-color: #777;
+    color: #fff;
+  }
+
+  .info .lool .vgv .dddd .degree{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 15px;
+   
+  }
+
+  .info .lool .vgv .dddd .degree .bbbo {
+    font-weight: bold;
+    font-size: 75px;
+  }
+
+  .info .lool .vgv .dddd .degree .iooi{
+    width: 40px;
+    margin-top: 50px;
+  }
+  .info .lool .vgv .dddd .degree .iooi img{
+    height: 40px;
+  }
+  .foooo{
+    background-color: #777777;
+    height: 35vh;
+  }
+  .foooo .sddds{
+    position: relative;
+  }
+  .foooo .sddds button{
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    padding: 10px 25px;
+    }
+    .foooo .ghgh{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 35px;
+        
+    }
+ 
+    .foooo .ghgh li{ 
+        list-style:none;
+        padding-left: 10px;
+      
+    }
+     .foooo .ghgh li i{
+        font-size: 25px;
+        border-radius: 50%;
+        padding: 10px;
+        color: #009ad8;
+        transition: 0.5s;
+         background-color: black;
+        cursor: pointer;
+    }
+    .foooo .ghgh li i:hover{
+        background-color: #009ad8;
+        color: white;
+
+    } 
+    .foooouuu .footer-icons{
+      width: 25px;
+      height: 25px;
+      margin-left: -2px;
+    }
